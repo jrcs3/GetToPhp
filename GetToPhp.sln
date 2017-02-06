@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetToPhpCon", "GetToPhpCon\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetToPhpWinF", "GetToPhpWinF\GetToPhpWinF.csproj", "{AA0FC67E-9730-47DC-9614-9FA10F92BE50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhpScripts", "PhpScripts\PhpScripts.csproj", "{F746C0DC-FA4E-4D84-90F7-27BB9F5FB84D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AA0FC67E-9730-47DC-9614-9FA10F92BE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA0FC67E-9730-47DC-9614-9FA10F92BE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA0FC67E-9730-47DC-9614-9FA10F92BE50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F746C0DC-FA4E-4D84-90F7-27BB9F5FB84D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F746C0DC-FA4E-4D84-90F7-27BB9F5FB84D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F746C0DC-FA4E-4D84-90F7-27BB9F5FB84D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F746C0DC-FA4E-4D84-90F7-27BB9F5FB84D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
